@@ -42,7 +42,7 @@ mobiliado ou não. Crie duas subclasses: Casa e Apartamento que herdem de
 Imóvel. A classe Apartamento possui: nome do prédio. Crie uma classe Imobiliária
 e forneça as seguintes opções: </br>
 >1- Registrar Casa </br>
->2- Registrar Apartamento
+>2- Registrar Apartamento </br>
 >3- Listar Imóveis não alugados (pelo nome da rua) </br>
 >4- Listar todos os Imóveis mobiliados </br>
 >0- Sair
